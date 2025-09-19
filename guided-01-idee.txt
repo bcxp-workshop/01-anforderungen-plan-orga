@@ -1,0 +1,2 @@
+Prompt: „Gib mir 5 Projektideen für eine kleine Software/App, die innerhalb von 3 Monaten als MVP machbar sind. Nenne Zielnutzer, Kernnutzen und was das Produkt besonders macht. Danach stelle mir 3 Rückfragen, um eine Idee zu schärfen.“
+Aktion: Eine Idee wählen, Rückfragen knapp beantworten.
