@@ -1,0 +1,2 @@
+Prompt: „Formuliere eine prägnante Produktvision in 2–3 Bullets. Fasse die Besonderheit (USP) klar. Gib mir eine 1‑Satz‑Elevator‑Pitch.“
+Check: Versteht jemand außerhalb des Teams sofort, was es ist?
