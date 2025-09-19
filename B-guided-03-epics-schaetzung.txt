@@ -1,0 +1,2 @@
+Prompt: „Gruppiere die Stories in Epics. Schlage T‑Shirt‑Größen pro Story vor (XS–XL) und begründe kurz. Nenne 3 Annahmen, die diese Schätzungen beeinflussen.“
+Aktion: Falls zu groß: bitte die KI um „Downsizing einer großer Story in 2 kleinere“.

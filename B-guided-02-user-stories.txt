@@ -1,0 +1,2 @@
+Prompt: „Erzeuge User Stories im Format ‘Als [Rolle] möchte ich [Fähigkeit], um [Nutzen]’ inkl. je 2 Akzeptanzkriterien. Zielnutzer: [X]. Scope: MVP in 3 Monaten.“
+Aktion: Sind die Stories nach INVEST-Kriterien formuliert? ggf. nachschärfen.

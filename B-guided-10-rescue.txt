@@ -1,0 +1,18 @@
+„Hilf mir beim KI-Workshop zum Thema Anforderungen, Projektplanung und -organisation.
+
+Das Mindestziel ist die Erstellung der folgenden Artefakte:
+Idee: 1 Satz Produkt-Idee.
+Vision: 2–3 Bulletpoints Unique Value.
+User Stories: Passende Zahl Storys mit je 1–2 Akzeptanzkriterien.
+Epics: Passende Epics, denen die Stories zugeordnet sind.
+Aufwand: T‑Shirt‑Sizing pro Story (XS–XL) + 1 grobe Annahme zur Team-Velocity.
+Roadmap: 3 Monate in 3 Phasen mit je 1 Fokus.
+Meilensteine: 2 messbare Ergebnisse mit Datum.
+Sprints: Sprint 1 Backlog mit 3 Tasks, je „Definition of Done“.
+Rollen: Liste von 3 Rollen mit grober Verantwortung.
+Risiken: Top 3 Risiken je mit Wahrscheinlichkeit, Auswirkung, 1 Mitigation.
+
+Hier ist unser aktueller Stand: 
+[Paste]
+
+Erzeuge das Mindestziel je Abschnitt in knapper, umsetzbarer Form. Falls Informationen fehlen, triff vernünftige Annahmen und markiere sie als Annahme A1, A2, A3.“

@@ -1,0 +1,2 @@
+Prompt: „Erstelle eine 3‑Monats‑Roadmap in 3 Phasen (Discover, Build, Launch) mit je 1 Fokus. Formuliere 2 SMART‑Meilensteine mit Datum.“
+Check: Sind Meilensteine messbare Ergebnisse statt Aktivitäten?

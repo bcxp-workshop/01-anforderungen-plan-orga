@@ -1,0 +1,5 @@
+Stories: INVEST-Prüfung in Stichworten. Mindestens 1 Akzeptanzkriterium ist testbar.
+Meilensteine: SMART, Ergebnis‑orientiert (z. B. „Erster zahlender Pilotkunde“ statt „Backend fertig“).
+Sprint 1: Könnte ein neues Teammitglied damit 1 Woche sinnvoll arbeiten?
+Risiken: Enthalten eine konkrete, machbare Mitigation (nicht nur „aufpassen“).
+Konsistenz: Vision → Stories → Epics → Roadmap passen logisch zusammen.
