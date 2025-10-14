@@ -1,0 +1,5 @@
+Vision: Ein Chatbot, der Kundenfragen zu Rechnungen in weniger als 1 Minute beantwortet.
+→ ask for 4 user stories 
+→ show edit of one story to be more testbar 
+→ ask for 4‑week roadmap 
+→ ask for 1 risk + mitigation

@@ -1,0 +1,11 @@
+- KI‑gestützter FAQ‑Chatbot für Kundensupport
+- Meeting‑Summarizer
+- Ideen‑Generator für Marketingkampagnen
+
+- Versicherung: KI‑gestützte Schadensmeldung
+- Finanz: Persönlicher Investmentberater
+- Regulation: Dokumenten‑Zusammenfassung für regulatorische Reports
+- Infrastruktur: Assistenz für Techniker im Feld
+- Handel: Persönlicher Angebotsgenerator
+
+... oder was euch sonst einfällt!

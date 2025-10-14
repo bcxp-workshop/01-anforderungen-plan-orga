@@ -1,0 +1,2 @@
+Schätze die Story‑Points (T-Shirt oder 1–8) oder Stundenaufwand grob für jede User Story. 
+Gib eine kurze Begründung.

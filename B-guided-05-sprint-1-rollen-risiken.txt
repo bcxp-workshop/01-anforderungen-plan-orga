@@ -1,2 +1,0 @@
-Prompt: „Erzeuge einen Sprint‑1‑Backlog (2 Wochen) mit 3 Tasks, je ‘Definition of Done’. Liste 3 Rollen mit Verantwortungen (RACI light). Erstelle ein Risiko‑Register mit Top 3 Risiken (Wahrscheinlichkeit, Auswirkung, Mitigation in 1 Satz).“
-Aktion: Eine Mitigation pro Risiko konkretisieren.

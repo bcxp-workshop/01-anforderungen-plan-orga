@@ -1,0 +1,5 @@
+GPT-4.1 oder "model-router" (OpenAI Automatik, GPT-5 usw.)
+Starte mit klarer, kurzen Eingabe (siehe Templates).
+Wenn Ergebnis zu allgemein: Nachfragen, z. B. „Mach die User Stories technischer / konkreter / für Mobile App“.
+Nutze „refine“-Prompts: „Fasse die Roadmap in einer Tabelle mit Woche, Ziel, Hauptaufgabe.“
+Kopiere Ergebnisse in ein Dokument (z. B. Word).
