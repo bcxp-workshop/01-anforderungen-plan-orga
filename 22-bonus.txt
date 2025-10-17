@@ -1,0 +1,32 @@
+1. Priorisierung im Backlog
+Aufgabe: Nutzt KI, um die User Stories zu priorisieren (z. B. nach Mehrwert, Aufwand, Risiken).
+Variante: Diskutiert, ob die KI-Priorisierung sinnvoll ist, und vergleicht mit eurer eigenen Reihenfolge.
+
+2. Akzeptanzkriterien / Definition of Done für User Stories
+Aufgabe: Wählt 1-2 wichtige User Stories aus und lasst von der KI Akzeptanzkriterien vorschlagen. Ergänzt und diskutiert diese.
+Variante: Überlegt, wo KI typische Schwächen bei Akzeptanzkriterien zeigt (z. B. zu generisch, zu technisch).
+
+3. Stakeholderanalyse & Kommunikationsplan
+Aufgabe: Erstellt mit KI-Unterstützung eine Stakeholder-Liste und skizziert einen Kommunikationsplan für das Projekt.
+Variante: Lasst KI die "Pain Points" der Stakeholder schätzen und prüft, ob das passt.
+
+4. Welche Risiken kann KI nicht erkennen?
+Aufgabe: Überlegt, welche Risiken die KI übersehen hat oder vermutlich übersehen würde und warum. Dokumentiert Beispiele.
+
+5. Mini-MVP-Canvas
+Aufgabe: Erstellt basierend auf den User Stories und dem Ziel eine knappe MVP-Beschreibung – gern mit KI-Hilfe. Aus welchen Bausteinen (welche Features) besteht euer erstes lauffähiges Produkt?
+
+6. Ist die KI anthropozentrisch?
+Aufgabe: Prüft, ob die von der KI generierten User Stories kulturelle, ethische oder Diversity-Aspekte berücksichtigen – ggf. nachbessern oder explizit solche Stories ergänzen.
+
+7. Berücksichtigung von Nicht-Funktionalen Anforderungen
+Aufgabe: Lasst KI (oder selbst) typische nicht-funktionale Anforderungen (Sicherheit, Performance, Datenschutz) vorschlagen und priorisieren.
+
+8. Vorausschau auf spätere Iterationen
+Aufgabe: Überlegt mit KI-Unterstützung, wie der MVP in der zweiten oder dritten Version weiterentwickelt werden könnte – z. B. durch Features, Refactoring, neue Zielgruppen.
+
+9. Mockup oder Wireframe entwerfen (Textbasiert)
+Aufgabe: Beschreibt mit KI, wie die Kernfunktionen des MVP als User Interface aussehen würden (z. B. Hauptmenü, erster Screen).
+
+10. Teststrategie für den MVP
+Aufgabe: Formuliert mit KI-Unterstützung erste Testfälle oder eine grobe Teststrategie für die wichtigsten Funktionen.
