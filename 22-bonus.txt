@@ -30,3 +30,6 @@ Aufgabe: Beschreibt mit KI, wie die Kernfunktionen des MVP als User Interface au
 
 10. Teststrategie für den MVP
 Aufgabe: Formuliert mit KI-Unterstützung erste Testfälle oder eine grobe Teststrategie für die wichtigsten Funktionen.
+
+11. Chatbot imitiert Fachbereich
+Aufgabe: Lasst die KI sich verhalten wie der Fachbereich. Gebt ihr Informationen zum Projekt. Stellt als PO Fragen an den "virtuellen" Fachbereich.
