@@ -1,4 +1,4 @@
 Wir planen einen MVP: eine [App/System] für [Branche z.B. Telekommunikation / E‑Commerce]. 
 Unsere Vision in einem Satz: [fülle ein]. 
-Erzeuge daraus 4 User Stories (Format: Als [Rolle] möchte ich [Funktion], damit [Nutzen]) und ordne diese optional 1–2 Epics zu. 
+Erzeuge daraus [n] User Stories (Format: Als [Rolle] möchte ich [Funktion], damit [Nutzen]) und ordne diese optional 1–2 Epics zu. 
 Halte jede User Story kurz (1–2 Zeilen).

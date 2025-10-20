@@ -1,2 +1,2 @@
-Basierend auf diesen User Stories, erstelle eine 4‑wöchige Roadmap für das MVP. 
-Gib für jede Woche eine Hauptaufgabe (z. B. 'Implementiere Basissuche', 'Trainiere NLU', 'UI testen'), ein klares Ziel der Woche (Definition of Done) und nenne ein passendes Meilenstein‑Datum nach Woche 2 und Woche 4.
+Basierend auf diesen User Stories, erstelle eine 4‑wöchige/3-monatige Roadmap für das MVP. 
+Gib für jede Woche eine Hauptaufgabe, ein klares Ziel der Woche (Definition of Done) und nenne ein passendes Meilenstein‑Datum nach Woche 2 und Woche 4.

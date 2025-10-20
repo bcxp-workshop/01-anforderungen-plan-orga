@@ -1,2 +1,2 @@
-Liste das größte operative Risiko für dieses Projekt (1 Punkt) und beschreibe eine konkrete, umsetzbare Mitigation in 2–3 Sätzen.
+Liste 3 operative Risiken für dieses Projekt (1 Punkt) und beschreibe konkrete, umsetzbare Mitigations in 2–3 Sätzen.
 Erwähne auch eine frühe Warnsignal‑Metrik, an der man erkennt, dass das Risiko eintritt.
